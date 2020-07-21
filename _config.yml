@@ -1,6 +1,6 @@
 title: 蛟川书院2017届3班
 url: "http://jc201703.github.io"
-baseurl: ""
+baseurl: "http://jc201703.github.io"
 description: >
   蛟川书院2017届3班的网站
 
@@ -8,6 +8,7 @@ email: jc201703@126.com
 author: jc201703
 
 profile: 相信自己，未来可期！
+avatar: "http://jc201703.github.io/pic/3.jpg"
 
 excerpt_separator: <!--more-->
 
