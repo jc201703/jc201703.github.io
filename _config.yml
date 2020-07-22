@@ -15,7 +15,6 @@ excerpt_separator: <!--more-->
 header:
   links:
     关于: /about/
-    分类: /category/
 
 plugins:
  - jekyll-paginate
